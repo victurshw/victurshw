@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Olá Tudo bem? Eu sou o 
-    <a href="https://www.instagram.com/victurshw/">Victor 😃️</a>
+    <a href="https://www.instagram.com/victurshw/">Victor 🥶</a>
   </h1>
   
   <p align="center">
